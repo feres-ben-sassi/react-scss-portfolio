@@ -64,7 +64,7 @@ const Hero = ({
                <span className="text-color-primary"> <CypherText textList={['RMG Agence Digitale', ' RMG Agence créative']} /></span>
             </h1>
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400" >
               Notre agence de communication digitale est le leader de la création des sites marchands en Tunisie et au Nord Afrique Grâce à une aventure qui a commencé il y a 8 ans.
                 </p>
               {/* <div className="reveal-from-bottom" data-reveal-delay="600">
